@@ -1,0 +1,37 @@
+<resources>
+
+    <style
+        name="Base.Theme.MisGastos"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Colores principales de Mis Gastos -->
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorPrimaryContainer">@color/teal</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+
+        <!-- Colores secundarios -->
+        <item name="colorSecondary">@color/navy</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="colorSecondaryContainer">@color/navy</item>
+        <item name="colorOnSecondaryContainer">@color/white</item>
+
+        <!-- Fondo -->
+        <item name="android:colorBackground">@color/app_background</item>
+
+        <!-- Barra superior -->
+        <item name="android:statusBarColor">@color/app_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Barra inferior -->
+        <item name="android:navigationBarColor">@color/app_background</item>
+
+    </style>
+
+    <style
+        name="Theme.MisGastos"
+        parent="Base.Theme.MisGastos" />
+
+</resources>

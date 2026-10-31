@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- COLORES ORIGINALES -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- COLORES PRINCIPALES -->
+    <color name="app_background">#F3F6FA</color>
+    <color name="navy">#142B4A</color>
+    <color name="teal">#0F9D83</color>
+    <color name="teal_light">#DDF5ED</color>
+
+    <!-- TEXTOS -->
+    <color name="text_primary">#172B4D</color>
+    <color name="text_secondary">#64748B</color>
+
+    <!-- TARJETAS Y BORDES -->
+    <color name="card_white">#FFFFFF</color>
+    <color name="border_light">#E2E8F0</color>
+
+    <!-- INGRESOS Y GASTOS -->
+    <color name="income_green">#13845B</color>
+    <color name="expense_red">#C65B54</color>
+
+</resources>

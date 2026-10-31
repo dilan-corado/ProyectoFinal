@@ -1,0 +1,32 @@
+<resources>
+
+    <style
+        name="Base.Theme.MisGastos"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Color principal -->
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorPrimaryContainer">@color/teal</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+
+        <!-- Color secundario -->
+        <item name="colorSecondary">@color/navy</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="colorSecondaryContainer">@color/navy</item>
+        <item name="colorOnSecondaryContainer">@color/white</item>
+
+        <!-- Fondo -->
+        <item name="android:colorBackground">@color/app_background</item>
+
+        <!-- Barra superior -->
+        <item name="android:statusBarColor">@color/app_background</item>
+
+        <!-- Barra inferior -->
+        <item name="android:navigationBarColor">@color/app_background</item>
+
+    </style>
+
+</resources>
